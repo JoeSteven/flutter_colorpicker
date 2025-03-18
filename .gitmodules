@@ -1,3 +1,0 @@
-[submodule "packages/flutter_colorpicker"]
-	path = packages/flutter_colorpicker
-	url = git@github.com:JoeSteven/flutter_colorpicker.git
